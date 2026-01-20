@@ -1,0 +1,17 @@
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\bin\Debug\net10.0\MpesaConsoleApp.exe
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\bin\Debug\net10.0\MpesaConsoleApp.deps.json
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\bin\Debug\net10.0\MpesaConsoleApp.runtimeconfig.json
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\bin\Debug\net10.0\MpesaConsoleApp.dll
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\bin\Debug\net10.0\MpesaConsoleApp.pdb
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.AssemblyInfoInputs.cache
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.AssemblyInfo.cs
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.csproj.CoreCompileInputs.cache
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.dll
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\refint\MpesaConsoleApp.dll
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.pdb
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.genruntimeconfig.cache
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\ref\MpesaConsoleApp.dll
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaConsoleApp.csproj.AssemblyReference.cache
+D:\BACKUP\Notes\mpesaconsole\MpesaConsoleApp\obj\Debug\net10.0\MpesaCon.4DDEA447.Up2Date

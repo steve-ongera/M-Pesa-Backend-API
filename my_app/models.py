@@ -1,4 +1,4 @@
-# accounts/models.py
+# my_app/models.py
 from django.db import models
 from django.contrib.auth.models import AbstractBaseUser, BaseUserManager
 from django.core.validators import RegexValidator
